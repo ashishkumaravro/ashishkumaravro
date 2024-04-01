@@ -6,12 +6,12 @@
 
 <!-- 
 Github Profile Visitors Count
-<a href="https://github.com/jabedkhanjb/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=jabedkhanjb&style=for-the-badge">
+<a href="https://github.com/ashihskumaravro/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=ashihskumaravro&style=for-the-badge">
 </a>
 
 
-[GitHub Profile Views Counter]: https://github.com/jabedkhanjb/github-profile-views-counter
+[GitHub Profile Views Counter]: https://github.com/ashihshkumaravro/github-profile-views-counter
 
 ![](https://hit.yhype.me/github/profile?user_id=1849174) -->
 
