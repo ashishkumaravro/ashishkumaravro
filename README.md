@@ -20,19 +20,19 @@ Github Profile Visitors Count
 
 
 <!--    <p align="left">
-      <a href="https://www.youtube.com/c/jabedkhanjb?sub_confirmation=1">
+      <a href="https://www.youtube.com/c/ashishkumaravro?sub_confirmation=1">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUv26lxPr2DHb8Tps-A5FVw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/jabedkhanjb">
+      <a href="https://www.youtube.com/c/ashish-kumarak">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUv26lxPr2DHb8Tps-A5FVw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/jabedkhanjb?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jabedkhanjb?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/jabedkhanjb?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jabedkhanjb?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
+      <a href="https://github.com/ashishkumaravro?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ashishkumaravro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ashishkumaravro?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashihskumaravro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
    
 <!--    Github Visitors count
    
-   ![](https://komarev.com/ghpvc/?jabedkhanjb=your-github-jabedkhanjb)
-   ![](https://komarev.com/ghpvc/?jabedkhanjb=your-github-jabedkhanjb&label=PROFILE+VIEWS) -->
+   ![](https://komarev.com/ghpvc/?ashihskumaravro=your-github-jabedkhanjb)
+   ![](https://komarev.com/ghpvc/?ashihskumaravro=your-github-jabedkhanjb&label=PROFILE+VIEWS) -->
    
 
 ---
@@ -80,8 +80,7 @@ Github Profile Visitors Count
 
 <h3>📅 Monthly Acitivities</h3>
   
-<a href="https://github.com/jabedkhanjb" target = "_blank"><img alt="jabedkhanjb's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=jabedkhanjb&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashishkumaravro" target = "_blank"><img alt="ashishkumaravro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ashishkumarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-<h3>🎖 Achievement </h3>
-<a href="https://www.hackerrank.com/certificates/464050961833" target="_blank"> <img src="/IMG/canvas.png" alt="HackerRank Certificate" "> </a>
- -->
+
+
