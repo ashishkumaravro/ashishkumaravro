@@ -1,86 +1,35 @@
-## Hi Everyone! Welcome to 🏄‍♂️ Ashish's GitHub Profile
+<h1 align="center">Hi 👋, I'm Ashis Kumar</h1>
+<h3 align="center">As a CSE student deeply passionate about AI, ML, and Data Science, my GitHub profile showcases a repository of projects reflecting my dedication to mastering cutting-edge technologies and solving real-world problems through innovative algorithms and data-driven insights.</h3>
 
-# 🏄‍♂️ Ashish Kumar 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumaravro&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumaravro" /> </p>
 
-<a href= "https://www.facebook.com/ashishkumaravro/">**`@Ashish Kumar`**</a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumaravro" alt="ashishkumaravro" /></a> </p>
 
-<!-- 
-Github Profile Visitors Count
-<a href="https://github.com/ashihskumaravro/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ashihskumaravro&style=for-the-badge">
-</a>
+- 🔭 I’m currently working on [Pynative-Web-Problem](https://github.com/ashishkumaravro/Pynative-web-probems)
 
+- 🌱 I’m currently learning **Python,ML,AI,Data Science**
 
-[GitHub Profile Views Counter]: https://github.com/ashihshkumaravro/github-profile-views-counter
+- 👨‍💻 All of my projects are available at [https://github.com/settings/repositories](https://github.com/settings/repositories)
 
-![](https://hit.yhype.me/github/profile?user_id=1849174) -->
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ashish-k0/](https://www.linkedin.com/in/ashish-k0/)
 
+- 💬 Ask me about **Python**
 
+- 📫 How to reach me **ashish.avro7@gmail.com**
 
+- ⚡ Fun fact **playing game,listen music**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/kumaravro7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kumaravro7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ashish-k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-k0" height="30" width="40" /></a>
+<a href="https://fb.com/ashishkumaravro?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashishkumaravro?mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://instagram.com/_ashish_k0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ashish_k0" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ashis-kumarak0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ashis-kumarak0" height="30" width="40" /></a>
+</p>
 
-<!--    <p align="left">
-      <a href="https://www.youtube.com/c/ashishkumaravro?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCUv26lxPr2DHb8Tps-A5FVw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/ashish-kumarak">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCUv26lxPr2DHb8Tps-A5FVw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ashishkumaravro?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ashishkumaravro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ashishkumaravro?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ashihskumaravro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a> -->
-   
-<!--    Github Visitors count
-   
-   ![](https://komarev.com/ghpvc/?ashihskumaravro=your-github-jabedkhanjb)
-   ![](https://komarev.com/ghpvc/?ashihskumaravro=your-github-jabedkhanjb&label=PROFILE+VIEWS) -->
-   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
-
-
-### 🧰 Languages and Tools
-
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" />
-<img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-plain.svg" />
-    
-<!--
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  -->
-
-   <br/>
-   <br/>
-   
-    
-    
-<!-- <a href="https://allmylinks.com/jabedkhanjb"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&layout=compact&theme=buefy&hide_border=true" /></a>   -->
-    
-<!-- ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical) 
-    -->
-<!-- **validation expired** ![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jabedkhanjb&show_icons=true&theme=radical) -->
-      
- 
-<!-- <summary><h3>📊 Github Stats and Activity</h3></summary>
-   
-    
-    
-![Jabed's GitHub stats](https://github-readme-stats.vercel.app/api?username=jabedkhanjb&show_icons=true&theme=gruvbox)
-    
-
-   
-<h3>🔥 Streak Stats</h3>
-<a href="https://www.youtube.com/c/jabedkhanjb">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jabedkhanjb's streak" src="https://streak-stats.demolab.com/?user=jabedkhanjb&theme=monokai-metallian&hide_border=true"/>
-    </a>
-    
-
-<h3>📅 Monthly Acitivities</h3>
-  
-<a href="https://github.com/ashishkumaravro" target = "_blank"><img alt="ashishkumaravro's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=ashishkumarak&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashishkumaravro&show_icons=true&locale=en&layout=compact" alt="ashishkumaravro" /></p>
 
