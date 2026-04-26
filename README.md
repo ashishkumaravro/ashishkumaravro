@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashishkumaravro" alt="ashishkumaravro" /></a> </p>
 
-- 🔭 I’m currently working on [Pynative-Web-Problem](https://github.com/ashishkumaravro/Pynative-web-probems)
+- 🔭I Solved all [Pynative-Web-Problem](https://github.com/ashishkumaravro/Pynative-web-probems)
 
 - 🌱 I’m currently learning **Python,ML,AI,Data Science**
 
